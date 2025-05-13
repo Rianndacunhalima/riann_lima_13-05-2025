@@ -1,3 +1,4 @@
+#resolvi o bug
 nome = input("digite seu nome aqui:")
 idade = int(input("Digite a sua idade: "))
 
